@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Tcl programming: infinite recursion. The `factorial.tcl` file contains a recursive factorial function with an error in the base case that leads to stack overflow. The corrected version, `factorialSolution.tcl`, shows how to fix this issue.
